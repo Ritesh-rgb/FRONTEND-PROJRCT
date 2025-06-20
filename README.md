@@ -4,4 +4,4 @@ THIS IS A COMPLETE FRONTEND PROJECT USING HTML/CSS/JS
 ABOUT:
 A GOLF CLASS WEBSITE
 HAVING ALL BASIC REQUIREMENTS 
-![image alt]("C:\Users\Julee Keshri\Pictures\Screenshots\Screenshot 2025-06-20 193032.png")
+![image alt]("https://github.com/Ritesh-rgb/FRONTEND-PROJRCT/blob/main/Screenshot%202025-06-20%20193032.png?raw=true")
